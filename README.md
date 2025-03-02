@@ -1,6 +1,4 @@
 # sir_model
-Program that simulates the evolution of a pandemic using the SIR model.
-
 The program consists of the design and implementation of a simulation of the spread of an epidemic in a population. A simple theoretical model exists to describe the spread of an epidemic within a closed population. 
 
 The model is called SIR from the initials of:
